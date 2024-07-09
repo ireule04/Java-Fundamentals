@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 class Student{
 	
-	//Date Members
+	//Date Members.
 	int studentId;
 	String studentName;
 	int studentAge;

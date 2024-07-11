@@ -23,12 +23,12 @@ class SavingAccount extends BankAccount{
 
 	@Override
 	void OpenAccount() {
-		System.out.println("Open Account");
+		System.out.println("Open Account.");
 	}
 
 	@Override
 	void closeAccount() {
-		System.out.println("Close Account");
+		System.out.println("Close Account.");
 		
 	}
 

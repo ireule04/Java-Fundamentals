@@ -10,7 +10,7 @@ class Student{
 	int studentAge;
 	Scanner scanner = new Scanner(System.in);
 	
-	//Member Function
+	//Member Functions
 	public void acceptDetails() {
 		System.out.print("Enter Student ID: ");
 		studentId = scanner.nextInt();
